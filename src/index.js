@@ -1,6 +1,7 @@
+import "./styles.css";
 import "./contactUsPage";
 import loadHomePageInfo from "./homePage.js";
-import "./contactUsPage";
+import "./menuPage";
 
 const content = document.querySelector("#content");
 
