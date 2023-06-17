@@ -1,0 +1,12 @@
+/*
+    TODO: use the restaurant picture the background image for the homePageContent div.
+    (something like this): background-image: url(Images/block.gif);
+*/
+
+.flexbox {
+  display: flex;
+}
+
+.header {
+  height: 17vw;
+}
